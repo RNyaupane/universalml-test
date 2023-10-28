@@ -20,7 +20,7 @@ import MThemes from './Container/myAppContainer/mobileView/mThemes';
 import MUpdates from './Container/myAppContainer/mobileView/mUpdates';
 import MDeveloperPlan from './Container/myAppContainer/mobileView/mDeveloperPlan';
 import MDeveloper from './Container/myAppContainer/mobileView/mDeveloper';
-import MNotification from './Container/myAppContainer/mobileView/MNotification';
+import MNotification from './Container/myAppContainer/mobileView/mNotification';
 import MApps from './Container/myAppContainer/mobileView/mApps';
 import Agreement from './Container/myAppContainer/Agreement';
 import MAgreement from './Container/myAppContainer/mobileView/MAgreement';
