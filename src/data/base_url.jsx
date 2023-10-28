@@ -1,0 +1,1 @@
+export const base_url = "https://goldfish-app-kl4y2.ondigitalocean.app";
