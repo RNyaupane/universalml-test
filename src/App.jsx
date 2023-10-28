@@ -16,7 +16,7 @@ import Updates from './Container/myAppContainer/Updates'
 import DeveloperPlan from './Container/myAppContainer/DeveloperPlan';
 import ErrorPage from './Pages/ErrorPage';
 import MAccounts from './Container/myAppContainer/mobileView/mAccounts';
-import MThemes from './Container/myAppContainer/mobileView/MThemes';
+import MThemes from './Container/myAppContainer/mobileView/mThemes';
 import MUpdates from './Container/myAppContainer/mobileView/mUpdates';
 import MDeveloperPlan from './Container/myAppContainer/mobileView/mDeveloperPlan';
 import MDeveloper from './Container/myAppContainer/mobileView/mDeveloper';
